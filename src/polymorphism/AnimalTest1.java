@@ -1,4 +1,4 @@
-package polymorphism;
+/*package polymorphism;
 
 class Animal {
 	public void move( ) {
@@ -38,3 +38,4 @@ public class AnimalTest1 {
 	}
 
 }
+*/
